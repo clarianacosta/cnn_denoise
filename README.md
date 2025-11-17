@@ -4,8 +4,7 @@ A U-Net CNN (Keras/TensorFlow) project for "salt & pepper" image denoising. This
 
 This project was developed by **Clariana Costa** and **Lara Marques** for the "Advanced Topics in Computing" course.
 
-![Full Size Denoising Results](results_comparison_fullsize.png)
-
+[Result Comparison](https://raw.githubusercontent.com/clarianacosta/cnn_denoise/refs/heads/main/results_comparison.png)
 
 ## 🌟 Features
 
