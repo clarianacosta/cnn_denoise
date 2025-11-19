@@ -2,7 +2,7 @@
 
 A U-Net CNN (Keras/TensorFlow) project for "salt & pepper" image denoising. This model is trained to remove noise while preserving image details and includes a Gradio UI demo for real-time inference on full-size images.
 
-This project was developed by **Clariana Costa** and **Lara Marques** for the "Advanced Topics in Computing" course.
+This project was developed by **Clariana Costa**, **Anderson Marques** and **Lara Marques** for the "Advanced Topics in Computing" course.
 
 [Result Comparison](https://raw.githubusercontent.com/clarianacosta/cnn_denoise/refs/heads/main/results_comparison.png)
 
